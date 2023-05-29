@@ -1,0 +1,4 @@
+python-dotenv
+gspread
+pandasql
+pyodbc
